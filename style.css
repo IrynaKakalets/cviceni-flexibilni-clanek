@@ -38,6 +38,7 @@ h2 {
 .article__image {
   padding: 1em;
 }
+/* Zde je místo pro vaše styly.*/
 
 .article {
   display: flex;
@@ -56,5 +57,4 @@ h2 {
   flex: 1 1 60%;
 }
 
-S
-/* Zde je místo pro vaše styly.*/
+
